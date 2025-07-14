@@ -384,7 +384,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dstdev`][@stdlib/stats/strided/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanstdev`][@stdlib/stats/base/snanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/stdev`][@stdlib/stats/base/stdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/stdev`][@stdlib/stats/strided/stdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/svariance`][@stdlib/stats/strided/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
 
 </section>
@@ -479,7 +479,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/snanstdev]: https://github.com/stdlib-js/stats-base-snanstdev
 
-[@stdlib/stats/base/stdev]: https://github.com/stdlib-js/stats-base-stdev
+[@stdlib/stats/strided/stdev]: https://github.com/stdlib-js/stats-strided-stdev
 
 [@stdlib/stats/strided/svariance]: https://github.com/stdlib-js/stats-strided-svariance
 
