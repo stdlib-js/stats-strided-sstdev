@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-09-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ad77212`](https://github.com/stdlib-js/stdlib/commit/ad77212bf6396e6f159ca645426f2ef686fec464) - **test:** migrate `stats/strided/sstdev` to ULP-based assertions [(#15665)](https://github.com/stdlib-js/stdlib/pull/15665) _(by Athan Reines)_
 -   [`e8dbcf0`](https://github.com/stdlib-js/stdlib/commit/e8dbcf0173eb058a68c27ff798fbc899bd941c03) - **bench:** refactor to use dynamic memory allocation in `stats/strided/sstdev` [(#11652)](https://github.com/stdlib-js/stdlib/pull/11652) _(by Uday Kakade)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Uday Kakade
 
